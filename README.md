@@ -13,10 +13,10 @@ The following figure illustrates the worldwide distribution of skin conditions c
 
 ![Global Disease Distribution](https://github.com/whria78/nia/blob/main/map/Figure2.jpg)
 
-- a) Malignant tumors
-- b) Benign tumors
-- c) Infectious diseases
-- d) Allergic diseases
+a) Malignant tumors
+b) Benign tumors
+c) Infectious diseases
+d) Allergic diseases
 
 ## How to Use the ModelDerm MySQL Database Dump
 The **modelderm.sql.zip** file contains a **MySQL database dump** for ModelDerm. To restore it, follow these steps:
