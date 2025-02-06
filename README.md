@@ -1,4 +1,4 @@
-# NIA Study: Global Performance of a Skin Disease AI Algorithm
+# Global Performance of a Skin Disease AI Algorithm
 
 ## Overview
 The **NIA Study** evaluates the real-world performance of **ModelDerm** ([https://modelderm.com](https://modelderm.com)), an AI model capable of classifying **186 dermatologic conditions** from clinical photographs. The study leveraged:
