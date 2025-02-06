@@ -4,7 +4,7 @@
 This study evaluates the real-world performance of **ModelDerm** ([https://modelderm.com](https://modelderm.com)), an AI model capable of classifying **186 dermatologic conditions** from clinical photographs. The study leveraged:
 - **152,443 macroscopic images** of **70 skin conditions** sourced from **9 universities in Korea**.
 - **1.69 million AI-driven diagnoses** across **227 countries** over **2.5 years**.
-- **Global reader tests** in **138 countries**. [Quiz Statistics](https://modelderm.com/quiz_stat.html)
+- **Global reader tests** in **138 countries**. 👉 [Quiz Statistics](https://modelderm.com/quiz_stat.html)
 
 This study introduces a **novel method** to estimate **real-world sensitivity and specificity**, providing crucial insights into dermatology AI's role in global healthcare.
 
