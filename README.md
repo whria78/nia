@@ -1,4 +1,4 @@
-# Global Performance of a Skin Disease AI Algorithm
+# Planet-wide Performance of a Skin Disease AI Algorithm Validated in Korea
 
 ## Overview
 This study evaluates the real-world performance of **ModelDerm** ([https://modelderm.com](https://modelderm.com)), an AI model capable of classifying **186 dermatologic conditions** from clinical photographs. The study leveraged:
