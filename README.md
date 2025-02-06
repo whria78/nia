@@ -45,4 +45,4 @@ Experience **ModelDerm's AI-powered skin disease diagnosis** via our **interacti
 ![DEMO Screenshot](https://github.com/whria78/nia/blob/main/demo/capture.JPG)
 
 ---
-For more details, visit **[ModelDerm](https://modelderm.com)** or explore our **[GitHub repository](https://github.com/whria78/nia)**!
+This study was conducted with the participation of the following researchers: Seung Seog Han, Soo Ick Cho, Gröger Fabian, Alexander A. Navarini, Myoung Shin Kim, Dong Hun Lee, Ju Hee Lee, Jihee Kim, Chong Hyun Won, Kyung-Nam Bae, Jee-Bum Lee, Hyun-Sun Yoon, Sung Eun Chang, Seong Hwan Kim, Jung-Im Na, Cristian Navarrete-Dechent.
