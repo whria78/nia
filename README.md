@@ -6,7 +6,7 @@ This study evaluates the real-world performance of **ModelDerm** ([https://model
 - **1.69 million AI-driven diagnoses** across **227 countries** over **2.5 years**.
 - **Global reader tests** in **138 countries**. 👉 [Quiz Statistics](https://modelderm.com/quiz_stat.html)
 
-This study introduces a **novel method** to estimate **real-world sensitivity and specificity (se in hospitals, sp in the real-world)**, providing crucial insights into dermatology AI's role in global healthcare.
+This study introduces a **novel method** to estimate **real-world sensitivity and specificity (se in hospitals, sp in the real-world)**.
 
 ## Global Disease Distribution
 The following figure illustrates the worldwide distribution of skin conditions classified by the algorithm:
@@ -38,11 +38,11 @@ mysql -u [your-username] -p modelderm < modelderm.sql
 Replace `[your-username]` with your MySQL username.
 
 ## Interactive DEMO
-Experience **ModelDerm's AI-powered skin disease diagnosis** via our **interactive demo**:
+Experience **Skin Disease Diagnosis powered by ModelDerm** via our **interactive demo**:
 👉 **[Live DEMO](https://whria78.github.io/nia/demo)**
 
 ### DEMO Screenshot
 ![DEMO Screenshot](https://github.com/whria78/nia/blob/main/demo/capture.JPG)
 
 ---
-This study was conducted with the participation of the following researchers: Seung Seog Han, Soo Ick Cho, Gröger Fabian, Alexander A. Navarini, Myoung Shin Kim, Dong Hun Lee, Ju Hee Lee, Jihee Kim, Chong Hyun Won, Kyung-Nam Bae, Jee-Bum Lee, Hyun-Sun Yoon, Sung Eun Chang, Seong Hwan Kim, Jung-Im Na, Cristian Navarrete-Dechent.
+This study was conducted with the following dermatologists: Seung Seog Han, Soo Ick Cho, Gröger Fabian, Alexander A. Navarini, Myoung Shin Kim, Dong Hun Lee, Ju Hee Lee, Jihee Kim, Chong Hyun Won, Kyung-Nam Bae, Jee-Bum Lee, Hyun-Sun Yoon, Sung Eun Chang, Seong Hwan Kim, Jung-Im Na, Cristian Navarrete-Dechent.
