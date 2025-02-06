@@ -6,7 +6,7 @@ This study evaluates the real-world performance of **ModelDerm** ([https://model
 - **1.69 million AI-driven diagnoses** across **227 countries** over **2.5 years**.
 - **Global reader tests** in **138 countries**. 👉 [Quiz Statistics](https://modelderm.com/quiz_stat.html)
 
-This study introduces a **novel method** to estimate **real-world sensitivity and specificity**, providing crucial insights into dermatology AI's role in global healthcare.
+This study introduces a **novel method** to estimate **real-world sensitivity and specificity (se in hospitals, sp in the real-world)**, providing crucial insights into dermatology AI's role in global healthcare.
 
 ## Global Disease Distribution
 The following figure illustrates the worldwide distribution of skin conditions classified by the algorithm:
